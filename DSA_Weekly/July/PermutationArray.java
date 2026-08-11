@@ -7,11 +7,13 @@ public class PermutationArray {
             ans1[i]  = nums[i];
         
         for(int j = 0; j < ans1.length;j++){
-            ans[j] = ans1[i];
+            ans[j] = ans1[j];
         }
+        
+
         }
         System.out.println(ans1[0]);
-                System.out.println(ans[4]);
+        System.out.println(ans[4]);
 
         //   for (int j = 0; j < nums.length; j++) {
         //     ans[j] = nums[ans1];
