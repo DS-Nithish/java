@@ -1,126 +1,50 @@
-# ☕ Java — DSA & Programming
+# Java
 
-A personal repository containing my **Java programming journey**, including Data Structures & Algorithms, notes, practice problems, weekly learning, and LeetCode solutions.
+A personal collection of Java-based Data Structures & Algorithms (DSA) practice, notes, and LeetCode solutions.
 
-> 🚀 Learning Java by writing code, solving problems, and building consistency.
+## 📁 Repository Structure
 
----
-
-## 📂 Repository Structure
-
-```text
+```
 java/
-│
-├── DSA-CODES/       # DSA implementations and practice
-├── DSA-NOTES/       # Notes and concepts
-├── DSA_STARTING/    # Java & DSA fundamentals
-├── DSA_Weekly/      # Weekly practice and progress
-├── leetcode/        # LeetCode problem solutions
-│
+├── DSA_STARTING/    # Beginner-level DSA problems — the starting point for building fundamentals
+├── DSA_Weekly/       # Weekly problem sets, used to track consistent practice over time
+├── DSA-CODES/        # General DSA implementations and problem solutions in Java
+├── DSA-NOTES/        # Concept notes, explanations, and theory for various DSA topics
+├── leetcode/          # Solutions to LeetCode problems, implemented in Java
 └── README.md
 ```
 
----
+## 📌 About
 
-## 🧠 What I'm Learning
+This repository documents an ongoing journey of learning and practicing Data Structures & Algorithms in Java — covering everything from fundamentals to weekly problem-solving challenges and LeetCode-specific solutions.
 
-### ☕ Java
+## 🛠️ Tech Stack
 
-* Java fundamentals
-* Variables & data types
-* Conditional statements
-* Loops
-* Methods
-* Arrays
-* Strings
-* Object-Oriented Programming
-* Classes & Objects
-* Collections
-* Exception handling
+- **Language:** Java
+- **Platforms:** LeetCode
 
-### 🧩 Data Structures & Algorithms
+## 🚀 Getting Started
 
-* Arrays
-* Searching
-* Sorting
-* Two Pointers
-* Sliding Window
-* Recursion
-* Linked Lists
-* Stacks
-* Queues
-* Hashing
-* Trees
-* Graphs
-* Dynamic Programming
+Clone the repository:
 
-### 💻 Problem Solving
-
-* LeetCode
-* Algorithm practice
-* Time & space complexity
-* Interview-oriented problems
-
----
-
-## 📈 Learning Progress
-
-This repository is continuously updated as I learn new concepts and solve new problems.
-
-```text
-Java Fundamentals       █████████░  In Progress
-Data Structures         ██████░░░░  In Progress
-Algorithms              █████░░░░░  In Progress
-LeetCode                █████░░░░░  In Progress
-Problem Solving         ██████░░░░  In Progress
+```bash
+git clone https://github.com/DS-Nithish/java.git
+cd java
 ```
 
----
+Navigate into any folder to browse solutions or notes. Each `.java` file can be compiled and run individually:
+
+```bash
+javac FileName.java
+java FileName
+```
 
 ## 🎯 Goals
 
-* Build a strong foundation in Java
-* Master Data Structures & Algorithms
-* Improve problem-solving skills
-* Solve LeetCode problems consistently
-* Prepare for technical interviews
-* Track my programming journey
+- Build strong DSA fundamentals through consistent daily/weekly practice
+- Maintain a personal reference of solved problems and key concepts
+- Track progress over time across topics
 
----
+## 🤝 Contributions
 
-## 🛠️ Tools
-
-* **Language:** Java ☕
-* **IDE/Editor:** IntelliJ IDEA / Neovim
-* **Practice:** LeetCode
-* **Version Control:** Git & GitHub
-
----
-
-## 📚 Practice
-
-My solutions are organized by topic and learning stage so I can easily revisit concepts and track my progress.
-
-> **Learn → Practice → Solve → Review → Improve**
-
----
-
-## 🔗 Links
-
-* 🐙 **GitHub:** [DS-Nithish](https://github.com/DS-Nithish)
-* 💻 **Repository:** [java](https://github.com/DS-Nithish/java)
-* 🧩 **LeetCode:** https://leetcode.com/u/UPWGOE2c04/ 
-
----
-
-## ⭐ Progress
-
-This repository represents my ongoing journey with **Java, DSA, and problem solving**.
-
-If you're also learning Java or DSA, feel free to explore the code and learn along with me.
-
----
-
-### 🚀 Keep Coding. Keep Learning. Keep Improving.
-
-
+This is primarily a personal learning repository, but suggestions and improvements are welcome via issues or pull requests.
